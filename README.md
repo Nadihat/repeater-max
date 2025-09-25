@@ -22,12 +22,6 @@ The code, and the Servitor, were created by Anthro Teacher, aka Thomas Sweet.
 
 It repeats your intention up to 10+EHz, to make things happen.
 
-voice_activated_intention_repeater.py is a voice-activated interface for intention_repeater_max.exe
-You will need requirements.txt and run in an administrator terminal: pip install -r requirements.txt
-
-You probably want Intention_Repeater_MAX.cpp if you are on Linux,
-and Intention_Repeater_MAX.exe if you are on Windows.
-
 To compile your code: g++ -O3 -Wall -static intention_repeater_max.cpp -o intention_repeater_max.exe -lz
 
 v5.10 .cpp requires picosha2.h and zlib.h
