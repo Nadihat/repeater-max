@@ -1,5 +1,7 @@
 # Intention Repeater Max
 
+25/9/2025: This repo was modified to contain v5.28 and its Python port, as well as ServitorConnect CLIv3.py.
+
 The Intention Repeater MAX is outdated. See the ServitorConnect: https://github.com/tsweet77/servitor-connect
 
 or the Intention Repeater Android: https://github.com/tsweet77/intention-repeater-android
